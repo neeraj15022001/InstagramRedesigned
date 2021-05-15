@@ -1,13 +1,110 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+:root {
+  --bgDark : #282A34;
+  --bgSecondaryDark: #3C3F51;
+  --bgTertiaryDark: #5e627e;
+  --themePink: #E2336B;
+  --themeYellow: #FCAC46;
+  --themeWhite: #ffffff;
+}
+body {
+  background-color: var(--bgSecondaryDark);
+  color: var(--themeWhite);
+}
+.bg-ThemeDark {
+  background-color: var(--bgDark) !important;
+}
+.bg-ThemeSecondaryDark {
+  background-color: var(--bgSecondaryDark) !important;
+}
+.bg-ThemePink {
+  background-color: var(--themePink) !important;
+}
+.bg-ThemeYellow {
+  background-color: var(--themeYellow) !important;
+}
+.text-ThemeWhite {
+  color: var(--themeWhite) !important;
+}
+.text-ThemeSecondaryDark {
+  color: var(--bgSecondaryDark) !important;
+}
+.text-ThemeTertiaryDark {
+  color: var(--bgTertiaryDark) !important;
+}
+.text-ThemePink {
+  color: var(--themePink) !important;
+}
+.border-ThemePink {
+  border-color: var(--themePink) !important;
+}
+.border-ThemeSecondaryDark {
+  border-color: var(--bgSecondaryDark) !important;
+}
+.w-4 {
+  width: 4rem !important;
+}
+.w-3 {
+  width: 3rem !important;
+}
+.w-1 {
+  width: 1rem !important;
+}
+.w-2 {
+  width: 2rem !important;
+}
+.w-5 {
+  width: 5rem !important;
+}
+.w-6 {
+  width: 6rem !important;
+}
+.w-16 {
+  width: 16rem !important;
+}
+.h-4 {
+  height: 4rem !important;
+}
+.h-3 {
+  height: 3rem !important;
+}
+.h-1 {
+  height: 1rem !important;
+}
+.h-2 {
+  height: 2rem !important;
+}
+.h-5 {
+  height: 5rem !important;
+}
+.h-6 {
+  height: 6rem !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.box-sizing-unset {
+  box-sizing: unset !important;
+}
+.rounded-4 {
+  border-radius: 1rem !important;
+}
+.p-01 {
+  padding: 0.1rem !important;
+}
+.w-icon-25 {
+  width: 25px !important;
+}
+.h-icon-25 {
+  height: 25px !important;
+}
+.text-small {
+  font-size: small;
+}
+.text-x-small {
+  font-size: x-small;
 }
