@@ -8,7 +8,7 @@ import "./Sidebar.css";
 
 function Sidebar() {
   return (
-    <div className="w-16 bg-ThemeDark Sidebar py-2 ps-2">
+    <div className="w-100 bg-ThemeDark Sidebar py-2 ps-2">
       <Brand />
       <div className="h-1"></div>
       <div className="w-100 d-flex flex-column align-items-center justify-content-center">

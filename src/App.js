@@ -11,7 +11,13 @@ import female from "./assets/female.jpg";
 function App() {
   return (
     <div className="App">
-      <Sidebar />
+      <div className="row">
+        <div className="col-3">
+          <Sidebar />
+        </div>
+        <div className="col-8"></div>
+      </div>
+
       {/* <FeedCard image={female} imageName="female" instaUsername={"avishkaa._"} /> */}
       {/* <Avatar imagePath={male} imageName={"male"} /> */}
       {/* <UserFollowers value="46" label="Posts" /> */}
