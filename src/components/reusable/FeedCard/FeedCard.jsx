@@ -1,9 +1,9 @@
 import React from "react";
 import "./FeedCard.css";
 import Avatar from "../Avatar/Avatar";
-import FeedCardLikeSection from "./FeedCardLikeSection"
+import FeedCardLikeSection from "./FeedCardLikeSection";
 
-function FeedCard({ image, imageName,instaUsername }) {
+function FeedCard({ image, imageName, instaUsername }) {
   return (
     <div className="FeedCard">
       <div className="d-flex flex-column">

@@ -1,7 +1,7 @@
 import React from "react";
 
 function UserFollowers({ value, label, border }) {
-  const borderRight = border ? "border-end border-ThemeSecondaryDark" : ""
+  const borderRight = border ? "border-end border-ThemeSecondaryDark" : "";
   return (
     <div className={`UserFollowers d-inline-block px-4 ${borderRight}`}>
       <div className="d-flex flex-column align-items-center">

@@ -3,7 +3,7 @@ import Brand from "./Brand/Brand";
 import Avatar from "../reusable/Avatar/Avatar";
 import male from "../../assets/male.jpg";
 import UserFollowers from "../reusable/UserFollowers/UserFollowers";
-import ListView from "../reusable/ListView/ListView"
+import ListView from "../reusable/ListView/ListView";
 import "./Sidebar.css";
 
 function Sidebar() {
