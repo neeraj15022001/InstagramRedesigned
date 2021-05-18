@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/InstagramRedesigned/static/css/main.e898d251.chunk.css",
-    "main.js": "/InstagramRedesigned/static/js/main.3b076784.chunk.js",
-    "main.js.map": "/InstagramRedesigned/static/js/main.3b076784.chunk.js.map",
+    "main.css": "/InstagramRedesigned/static/css/main.7445094a.chunk.css",
+    "main.js": "/InstagramRedesigned/static/js/main.459e73d2.chunk.js",
+    "main.js.map": "/InstagramRedesigned/static/js/main.459e73d2.chunk.js.map",
     "runtime-main.js": "/InstagramRedesigned/static/js/runtime-main.d735dfaf.js",
     "runtime-main.js.map": "/InstagramRedesigned/static/js/runtime-main.d735dfaf.js.map",
-    "static/js/2.06448cb2.chunk.js": "/InstagramRedesigned/static/js/2.06448cb2.chunk.js",
-    "static/js/2.06448cb2.chunk.js.map": "/InstagramRedesigned/static/js/2.06448cb2.chunk.js.map",
+    "static/js/2.58b93b75.chunk.js": "/InstagramRedesigned/static/js/2.58b93b75.chunk.js",
+    "static/js/2.58b93b75.chunk.js.map": "/InstagramRedesigned/static/js/2.58b93b75.chunk.js.map",
     "index.html": "/InstagramRedesigned/index.html",
-    "static/css/main.e898d251.chunk.css.map": "/InstagramRedesigned/static/css/main.e898d251.chunk.css.map",
-    "static/js/2.06448cb2.chunk.js.LICENSE.txt": "/InstagramRedesigned/static/js/2.06448cb2.chunk.js.LICENSE.txt",
+    "static/css/main.7445094a.chunk.css.map": "/InstagramRedesigned/static/css/main.7445094a.chunk.css.map",
+    "static/js/2.58b93b75.chunk.js.LICENSE.txt": "/InstagramRedesigned/static/js/2.58b93b75.chunk.js.LICENSE.txt",
     "static/media/female.1ae1883e.jpg": "/InstagramRedesigned/static/media/female.1ae1883e.jpg",
     "static/media/male.50939d4b.jpg": "/InstagramRedesigned/static/media/male.50939d4b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d735dfaf.js",
-    "static/js/2.06448cb2.chunk.js",
-    "static/css/main.e898d251.chunk.css",
-    "static/js/main.3b076784.chunk.js"
+    "static/js/2.58b93b75.chunk.js",
+    "static/css/main.7445094a.chunk.css",
+    "static/js/main.459e73d2.chunk.js"
   ]
 }
