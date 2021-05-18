@@ -29,6 +29,9 @@ body {
 .bg-ThemeYellow {
   background-color: var(--themeYellow) !important;
 }
+.bg-ThemeTertiary {
+  background-color: var(--bgTertiaryDark) !important;
+}
 .text-ThemeWhite {
   color: var(--themeWhite) !important;
 }

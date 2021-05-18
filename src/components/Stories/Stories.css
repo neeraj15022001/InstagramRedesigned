@@ -1,0 +1,9 @@
+.Stories {
+  overflow: scroll;
+  width: 100vw;
+}
+.stories-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}

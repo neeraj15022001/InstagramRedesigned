@@ -1,0 +1,10 @@
+.PostButton {
+  background-image: linear-gradient(
+    to right,
+    #e23363,
+    #f15256,
+    #fa714c,
+    #fd8f46,
+    #fcac46
+  );
+}

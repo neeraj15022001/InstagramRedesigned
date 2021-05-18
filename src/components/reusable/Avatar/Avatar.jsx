@@ -12,7 +12,7 @@ function Avatar({
 }) {
   return (
     <div
-      className={`Avatar border ${borderWidthClass} d-inline-block rounded-circle border-ThemePink ${borderHeight} ${borderWidth}`}
+      className={`mx-1 Avatar border ${borderWidthClass} d-inline-block rounded-circle border-ThemePink ${borderHeight} ${borderWidth}`}
     >
       <div className="d-flex align-items-center justify-content-center h-100 w-100">
         <img

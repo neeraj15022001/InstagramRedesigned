@@ -7,8 +7,8 @@ function FeedCard({ image, imageName, instaUsername }) {
   return (
     <div className="FeedCard">
       <div className="d-flex flex-column">
-        <img src={image} alt={imageName} className="w-25 rounded-4" />
-        <div className="d-flex align-items-center justify-content-between py-2 w-25 px-1">
+        <img src={image} alt={imageName} className="w-100 rounded-4" />
+        <div className="d-flex align-items-center justify-content-between py-2 w-100 px-1">
           <div className="d-flex align-items-center justify-content-between">
             <Avatar
               imageName={imageName}
